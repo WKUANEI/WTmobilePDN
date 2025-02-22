@@ -42,7 +42,7 @@ cd ..
 ## Knowledge distillation
 You need to distill the model yourself，In that case, download the ImageNet (ILSVRC2012) dataset from the link below:
 https://www.image-net.org/download.php
-We also provide mesoscale (C+WT*5) distillation models in the A catalog.
+We also provide mesoscale (C+WT*5) distillation models in the output/pretraining catalog.
 
 ## efficientad.py
 
