@@ -1,9 +1,6 @@
 # WTmobilePDN
 ##
-
- ![参数](model.png)
-
- 
+model.png
  ##
  ![参数可视化图示](Graph1Paramer.png)
 
