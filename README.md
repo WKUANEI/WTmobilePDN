@@ -1,7 +1,7 @@
 # WTmobilePDN
 ##
 
- ![参数可视化图示](model.png)
+ ![参数](model.png)
 
  
  ##
