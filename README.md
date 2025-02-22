@@ -1,7 +1,7 @@
 # WTmobilePDN
 ##
 
- ![参数可视化图示](算法图.png)
+ ![算法](算法图.png)
  ![参数可视化图示](Graph1Paramer.png)
 
 
