@@ -1,10 +1,7 @@
 # WTmobilePDN
 ##
-model.png
- ##
+ ![模型](model.png)
  ![参数可视化图示](Graph1Paramer.png)
-
-
 ## Results
 
 | Model         | Dataset    | Official Paper | efficientad.py |our(AU-ROC,params)  |  
